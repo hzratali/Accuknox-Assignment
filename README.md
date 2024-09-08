@@ -38,21 +38,21 @@ Before running the project locally, ensure you have the following installed:
 
 2. Install the project dependencies:
 
-```bash
-  npm install
-```
+ ```bash
+   npm install
+ ```
 
 Running the Application
 To run the application locally:
 
 a. Start the development server:
-`bash
-        npm run dev
-      `
+```bash
+   npm run dev
+```
 b. Open your browser and navigate to:
-`bash
-        http://localhost:5173/
-      `
+```bash
+   http://localhost:5173/
+```
 
 JSON Structure Example
 The dashboard is built dynamically using the following JSON structure:
